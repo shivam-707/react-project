@@ -1,12 +1,12 @@
 import './App.css'
-import ProductTab from './productTab.jsx';
+import Form from './form.jsx';
 
 
 function App() {
   
   return (
     <div>
-      <ProductTab />
+      <Form />
     </div>
   );
 }
