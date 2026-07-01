@@ -17,6 +17,7 @@ react-state/
 │   ├── LikeButton.jsx   # Toggle state with boolean
 │   ├── LudoBoard.jsx    # Object state with multiple fields
 │   ├── TodoList.jsx     # Full CRUD with array state
+|   |── LotteryGame.jsx
 │   ├── App.css
 │   └── index.css
 ├── index.html
