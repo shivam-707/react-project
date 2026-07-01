@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <TodoList />
-      <br></br><br></br>
+      <br></br><br></br><br></br>
       <LotteryGame />
     </>
   )
