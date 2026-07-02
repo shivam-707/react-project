@@ -17,7 +17,7 @@ react-state/
 │   ├── LikeButton.jsx   # Toggle state with boolean
 │   ├── LudoBoard.jsx    # Object state with multiple fields
 │   ├── TodoList.jsx     # Full CRUD with array state
-|   |── LotteryGame.jsx
+|   |── LotteryGame.jsx  # Generates 3-digit Lottery number
 │   ├── App.css
 │   └── index.css
 ├── index.html
