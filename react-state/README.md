@@ -98,6 +98,8 @@ A fully functional to-do list that demonstrates **create, delete, and update** o
 | ❌ Delete Task | Filters out a todo by its `id` |
 | 🔠 Uppercase One | Updates a single todo's text using `map` |
 | 🔠 Uppercase All | Maps over all todos and transforms text |
+| 🔠 Complete All | Marks as done to all todos |
+
 
 ```jsx
 // Add
