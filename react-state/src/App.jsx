@@ -1,13 +1,13 @@
 import './App.css'
-import TodoList from './TodoList'
-import LotteryGame from './LotteryGame'
+import Form from './Form'
 
 function App() {
   return (
     <>
-      <TodoList />
-      <br></br><br></br><br></br>
-      <LotteryGame />
+      
+      <Form />
+      <br></br><br></br>
+      <CommentsForm />
     </>
   )
 }
