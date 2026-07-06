@@ -1,14 +1,18 @@
 import './App.css'
-import Form from './Form'
-import CommentsForm from './CommentsForm'
+import Comment from './Comment'
+import CounterUseEffect from './CounterUseEffect'
+import Joker from './Joker'
 
 function App() {
   return (
     <>
-      
-      <Form />
       <br></br><br></br>
-      <CommentsForm />
+      <Comment />
+      <br></br><br></br>
+      <CounterUseEffect />
+      <br></br><br></br>
+      <Joker />
+
     </>
   )
 }
