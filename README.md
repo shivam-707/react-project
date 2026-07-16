@@ -1,4 +1,4 @@
-# 🌦️ Mini Project React - Weather App
+# Mini Project React - Weather App
 
 A simple React + Vite weather application built with Material UI.  
 The app allows users to search for a city and display basic weather information such as temperature, humidity, pressure, and feels-like temperature..
